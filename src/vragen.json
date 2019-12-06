@@ -1,0 +1,74 @@
+{
+  "vragen": [
+    {
+      "vraagnr": 0,
+      "vraag": "Welke planeet heeft het langst nodig om rond de zon te draaien",
+      "antwoord": "Pluto",
+      "fouten": ["Mercurius","Neptunus","Venus"],
+      "categorie": "Wetenschap"
+    },
+    {
+      "vraagnr": 1,
+      "vraag": "Hoe schrijf je het getal 37 in het binaire stelsel?",
+      "antwoord": "100101",
+      "fouten": ["100101","100110","110011"],
+      "categorie": "Wetenschap"
+    },
+    {
+      "vraagnr": 2,
+      "vraag": "Wanneer maakte het aidsvirus zijn eerste slachtoffers?",
+      "antwoord": "In 1980.",
+      "fouten": ["In 1985.","In 1973.","In 1965."],
+      "categorie": "Wetenschap"
+    },
+    {
+      "vraagnr": 3,
+      "vraag": "Waartegen zijn antibiotica werkzaam: bacteriën, virussen of schimmels?",
+      "antwoord": "Bacteriën",
+      "fouten": ["Virussen","Schimmels","Open Wondes"],
+      "categorie": "Wetenschap"
+    },
+    {
+      "vraagnr": 4,
+      "vraag": "Met welk hormoon is er een probleem bij een diabetespatiënt?",
+      "antwoord": "Insuline",
+      "fouten": ["Serotonine","Melatonine","Epinefrine"],
+      "categorie": "Wetenschap"
+    },
+    {
+      "vraagnr": 5,
+      "vraag": "Wie was de uitvinder van de gloeilamp?",
+      "antwoord": "Henry Woodward & Mathew Evans",
+      "fouten": ["Alexander Lodygin","Nikolai Tesla","Thomas Edison"],
+      "categorie": "Wetenschap"
+    },
+    {
+      "vraagnr": 6,
+      "vraag": "Hoeveel meter is 1 terameter?",
+      "antwoord": "1 Biljoen meter",
+      "fouten": ["Bestaan niet","1 Triljard meter","1 Miljard meter "],
+      "categorie": "Wetenschap"
+    },
+    {
+      "vraagnr": 7,
+      "vraag": "Hoe heet het toestel waarmee radioactiviteit gemeten wordt?",
+      "antwoord": "Geigerteller",
+      "fouten": ["Interferometer","Lux meter","Megger"],
+      "categorie": "Wetenschap"
+    },
+    {
+      "vraagnr": 8,
+      "vraag": "Wat is het tegenovergestelde van oxidatie? Het is het scheikundig proces waarbij een deeltje elektronen opneemt.",
+      "antwoord": "Reductie",
+      "fouten": ["Combustie ","homeostatie","Sepsidatie"],
+      "categorie": "Wetenschap"
+    },
+    {
+      "vraagnr": 9,
+      "vraag": "Onder bepaalde omstandigheden bevriest warm water sneller dan koud water. Hoe noemt men dit effect?",
+      "antwoord": "Mpemba-effect",
+      "fouten": ["Ripple effect","Oligodynamic effect","Dunning–Kruger effect"],
+      "categorie": "Wetenschap"
+    }
+  ]
+}
